@@ -1,0 +1,41 @@
+body {
+    padding-top: 60px;
+    background-image: url(3.jpg);
+}
+
+.bar {
+    width: 40%;
+    margin: 0 auto 15px auto;
+    border-style: none;
+    border-top: solid;
+    border-top-color: rgba(255, 255, 255);
+}
+
+.title {
+    text-align: center;
+}
+
+.img {
+    padding-left: 40px;
+    width: 300px;
+    height: 330px;
+}
+
+.container {
+    margin-top: 120px;
+}
+
+.container2 {
+    margin: 120px auto 40px auto;
+    width: 60%;
+}
+
+.img2 {
+    width: 300px;
+    height: 330px;
+    padding-left: 40px;
+}
+
+.summary {
+    margin-top: 45px;
+}
