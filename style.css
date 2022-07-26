@@ -1,16 +1,10 @@
 body {
     padding-top: 60px;
-    /* background-image: url(bg.jpg); */
+    background-image: url(bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     background-color: rgb(191, 190, 190);
-
-}
-
-.bar {
-    width: 40%;
-    margin: 0 auto 15px auto;
-    border-style: none;
-    border-top: solid;
-    border-top-color: rgba(255, 255, 255);
 }
 
 .title {
@@ -45,10 +39,17 @@ body {
     height: 330px;
     padding-left: 40px;
 }
-a :hover{
+
+a :hover {
     opacity: 100%;
 }
 
 .summary {
-    margin-top: 45px;
+    margin-top: 30px;
+    color: antiquewhite;
+    font-family: "Edu TAS Beginner", cursive;
+}
+
+.heading {
+    color: #45eeb3;
 }
